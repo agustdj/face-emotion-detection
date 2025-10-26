@@ -70,7 +70,7 @@ streamlit run app.py
 
 | Angry 😡                                                  | Happy 😄                                                  | Neutral 😐                                                    |
 | --------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------- |
-| ![Angry](assets/angry_example.jpg){width="200px"} | ![Happy](assets/happy_example.jpg){width="200px"} | ![Neutral](assets/neutral_example.jpg){width="200px"} |
+| ![Angry](assets/angry_example.jpg)| ![Happy](assets/happy_example.jpg)| ![Neutral](assets/neutral_example.jpg)|
 
 ---
 
